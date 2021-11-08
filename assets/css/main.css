@@ -4687,3 +4687,13 @@ input, select, textarea {
 		}
 
 	}
+
+.glow{
+	content: '';
+	transition: 0.5s;
+}
+
+.glow:hover{
+	color: #18bfef !important;
+	transition: 0.5;
+}
